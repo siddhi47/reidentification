@@ -1,0 +1,5 @@
+# ignore all __pycache__
+__pycache__/
+save_dir
+acc_fps.txt
+map.txt
